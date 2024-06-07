@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @KevinTheProgram
-- 👀 I’m interested in learning to make games.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects.
+TF2 Player https://steamcommunity.com/id/WatashiKiwi/
+Python beginner
